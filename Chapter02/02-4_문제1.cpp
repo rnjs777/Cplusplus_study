@@ -1,8 +1,9 @@
 //예외 발생 > 액세스 위반 > ??????
 
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>
+
 using namespace std;
 
 

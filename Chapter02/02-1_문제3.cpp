@@ -1,4 +1,4 @@
-
+//19За entl їА·щ
 
 #include <iostream>
 using namespace std;

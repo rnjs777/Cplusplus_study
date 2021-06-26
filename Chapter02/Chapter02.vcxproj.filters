@@ -34,9 +34,4 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="02-4_문제1.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

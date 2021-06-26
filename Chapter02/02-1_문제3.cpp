@@ -16,7 +16,7 @@ int main(void) {
 	int* ptr2 = &num2;
 
 	SwapPointer(ptr1, ptr2);
-	cout << *ptr1 << entl;
-	cout << *ptr2 << entl;
+	cout << *ptr1 << endl;
+	cout << *ptr2 << endl;
 	return 0;
 }
